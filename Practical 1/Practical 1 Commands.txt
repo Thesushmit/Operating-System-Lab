@@ -1,0 +1,75 @@
+Aim : To implement basic commands on Ubuntu and ls commands with all options.
+
+Basic Ubuntu/Linux Commands
+
+pwd – Print current working directory
+
+cd – Change directory
+
+ls – List directory contents
+
+mkdir – Make a new directory
+
+rmdir – Remove empty directory
+
+touch – Create a new empty file
+
+rm – Remove files or directories
+
+cp – Copy files or directories
+
+mv – Move or rename files/directories
+
+cat – View file content
+
+nano – Edit files in terminal using nano editor
+
+vi – Edit files using vi editor
+
+clear – Clear the terminal screen
+
+exit – Close the terminal session
+
+sudo – Run command with root privileges
+
+apt update – Update package list
+
+apt upgrade – Upgrade installed packages
+
+history – Show previously used commands
+
+man – Show manual for a command
+
+echo – Display a message or variable
+
+ls Command Options:
+
+ls – List files in current directory
+
+ls -l – Long listing format (permissions, size, etc.)
+
+ls -a – Show all files including hidden ones
+
+ls -la – Long format + all files (hidden too)
+
+ls -lh – Human-readable sizes in long format
+
+ls -R – List directories and subdirectories recursively
+
+ls -t – Sort by modification time (latest first)
+
+ls -S – Sort by file size (largest first)
+
+ls -r – Reverse order while sorting
+
+ls -d */ – Show only directories
+
+ls --color – Colorize the output
+
+ls -1 – One file per line
+
+ls -i – Show inode number
+
+ls -X – Sort alphabetically by extension
+
+ls -F – Add indicator (/ for dir, * for exec)

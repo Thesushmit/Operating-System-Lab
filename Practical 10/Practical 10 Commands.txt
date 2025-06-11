@@ -1,0 +1,11 @@
+Aim : To write a shell script to demonstrate if-else conditional statement.
+
+read – Takes user input
+
+if [ $num -gt 0 ] – Checks if number is greater than 0
+
+then – Executes if condition is true
+
+else – Executes if condition is false
+
+fi – Ends the if-else block

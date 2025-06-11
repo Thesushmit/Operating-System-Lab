@@ -1,0 +1,23 @@
+Aim : To implement Banker’s Algorithm.
+Input:
+
+Number of Processes and Resources
+
+Max Need, Allocated, and Available matrices
+
+Calculate:
+
+Need[i][j] = Max[i][j] - Allocation[i][j]
+
+Safety Algorithm:
+
+Check if there exists a process whose Need ≤ Available
+
+If yes, simulate allocation, mark it done, and add its allocated resources back to Available
+
+Repeat until all processes are done or deadlock is detected
+
+Output:
+
+Safe Sequence or Deadlock warning
+

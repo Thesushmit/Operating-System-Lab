@@ -1,0 +1,21 @@
+Aim : To implement C program using Vi editor.
+
+vi filename.c – Open or create a C file in Vi editor
+
+Press i – Enter insert mode to start typing code
+
+Press Esc – Exit insert mode after typing
+
+:w – Save the file
+
+:q – Quit the editor
+
+:wq – Save and quit Vi editor
+
+gcc filename.c -o outputname – Compile the C program
+
+./outputname – Run the compiled program
+
+clear – Clear the terminal screen
+
+ls – Check if files like .c and compiled output exist

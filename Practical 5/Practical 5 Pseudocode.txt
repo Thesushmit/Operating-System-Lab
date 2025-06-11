@@ -1,0 +1,32 @@
+1. Start
+2. Input number of processes, n
+3. For each process i = 1 to n:
+       Input Arrival Time (AT[i])
+       Input Burst Time (BT[i])
+4. Sort all processes by Arrival Time (AT)
+5. Set Start Time (ST[0]) = AT[0]
+6. For each process i from 1 to n:
+       If AT[i] > Completion Time of previous process:
+           ST[i] = AT[i]
+       Else:
+           ST[i] = Completion Time of previous process
+
+       CT[i] = ST[i] + BT[i]           // Completion Time
+       TAT[i] = CT[i] - AT[i]          // Turnaround Time
+       WT[i] = TAT[i] - BT[i]          // Waiting Time
+7. Print CT, TAT, WT for each process
+8. Calculate average TAT and WT
+9. End
+
+
+AT = Arrival Time
+
+BT = Burst Time
+
+ST = Start Time
+
+CT = Completion Time
+
+TAT = Turnaround Time = CT - AT
+
+WT = Waiting Time = TAT - BT

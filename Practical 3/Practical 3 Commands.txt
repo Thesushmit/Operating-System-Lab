@@ -1,0 +1,42 @@
+Aim : To implement all process management commands of UNIX
+UNIX Process Management Commands
+ps – Show running processes
+
+ps -aux – Show all processes with details
+
+top – Real-time view of running processes
+
+htop – Interactive process viewer (needs install)
+
+kill PID – Terminate process by PID
+
+kill -9 PID – Force kill a process
+
+pidof process_name – Get PID of a process
+
+pgrep name – Find PID by process name
+
+pkill name – Kill process by name
+
+nice -n value command – Start process with priority
+
+renice -n value PID – Change priority of running process
+
+jobs – Show background jobs in current shell
+
+bg – Resume job in background
+
+fg – Bring job to foreground
+
+& – Run command in background
+
+nohup command & – Run command immune to hangups
+
+wait PID – Wait for process to finish
+
+ps -ef – Full-format listing of all processes
+
+watch command – Run command repeatedly at intervals
+
+strace command – Trace system calls and signals (for debugging)
+

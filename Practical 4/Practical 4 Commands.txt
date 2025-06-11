@@ -1,0 +1,22 @@
+Aim : To write a program  to demonstrate process creating (Parent and Child).
+
+Commands to Create and Run Process Creation Program
+vi forkdemo.c – Open/create a C file using Vi editor
+
+Press i – Enter insert mode to write code
+
+Write C code using fork() – Add parent-child logic
+
+Press Esc – Exit insert mode
+
+:wq – Save and quit the editor
+
+gcc forkdemo.c -o forkdemo – Compile the code
+
+./forkdemo – Run the compiled program
+
+ps – View current processes (optional)
+
+clear – Clear terminal screen
+
+ls – List files to confirm output exists

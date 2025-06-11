@@ -1,0 +1,16 @@
+Aim : To write C program to implement SJF CPU scheduling algorithm same 
+Input number of processes
+
+Input Burst Time for each process
+
+Sort processes by Burst Time (BT)
+
+Calculate:
+
+Waiting Time (WT)
+
+Turnaround Time (TAT = WT + BT)
+
+Output process-wise WT and TAT
+
+Calculate average WT and TAT

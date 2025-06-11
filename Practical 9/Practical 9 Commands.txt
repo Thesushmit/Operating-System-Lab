@@ -1,0 +1,19 @@
+Aim : To implement basic shell commands and shell scripts.
+
+vi script.sh – Create a shell script file
+
+Press i – Insert mode to type code
+
+Start with #!/bin/bash – Define shell type
+
+Write shell commands below it
+
+Press Esc → :wq – Save and exit
+
+chmod +x script.sh – Make script executable
+
+./script.sh – Run the shell script
+
+ls – Verify if file exists
+
+clear – Clear the terminal (optional)

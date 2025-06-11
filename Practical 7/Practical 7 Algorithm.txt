@@ -1,0 +1,22 @@
+Aim : To write C program to implement Priority based CPU scheduling algorithm
+
+Input number of processes
+
+For each process:
+
+Input Burst Time (BT)
+
+Input Priority (lower number = higher priority)
+
+Sort processes by priority
+
+Calculate:
+
+Waiting Time (WT)
+
+Turnaround Time (TAT = WT + BT)
+
+Display WT and TAT for each process
+
+Calculate average WT and TAT
+
