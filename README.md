@@ -28,14 +28,8 @@ This repository contains a collection of Operating System practicals implemented
 
 ---
 
-📌 Note
-All codes are written and tested on Ubuntu 22.04 LTS.
-
-Designed for academic and learning purposes for Operating Systems lab.
-
----
-
 🙌 Author
 Sushmit Partakke
 B.Tech CSE, Symbiosis Nagpur
 2nd Year – Section IV B
+PRN - 23070521156
