@@ -28,9 +28,14 @@ This repository contains a collection of Operating System practicals implemented
 
 ---
 
-## 🚀 How to Run the Programs
+📌 Note
+All codes are written and tested on Ubuntu 22.04 LTS.
 
-### For C Programs
-```bash
-gcc filename.c -o outputname
-./outputname
+Designed for academic and learning purposes for Operating Systems lab.
+
+---
+
+🙌 Author
+Sushmit Partakke
+B.Tech CSE, Symbiosis Nagpur
+2nd Year – Section IV B
