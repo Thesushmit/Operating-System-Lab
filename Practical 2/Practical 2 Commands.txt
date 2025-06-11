@@ -19,3 +19,6 @@ gcc filename.c -o outputname – Compile the C program
 clear – Clear the terminal screen
 
 ls – Check if files like .c and compiled output exist
+
+Name - Sushmit Partakke
+PRN - 23070521156

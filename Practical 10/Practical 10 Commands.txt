@@ -9,3 +9,6 @@ then – Executes if condition is true
 else – Executes if condition is false
 
 fi – Ends the if-else block
+
+Name - Sushmit Partakke
+PRN - 23070521156

@@ -73,3 +73,6 @@ ls -i – Show inode number
 ls -X – Sort alphabetically by extension
 
 ls -F – Add indicator (/ for dir, * for exec)
+
+Name - Sushmit Partakke
+PRN - 23070521156

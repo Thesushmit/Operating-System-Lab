@@ -40,3 +40,6 @@ watch command – Run command repeatedly at intervals
 
 strace command – Trace system calls and signals (for debugging)
 
+Name - Sushmit Partakke
+PRN - 23070521156
+

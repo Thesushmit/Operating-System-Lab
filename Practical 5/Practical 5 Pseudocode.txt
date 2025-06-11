@@ -30,3 +30,6 @@ CT = Completion Time
 TAT = Turnaround Time = CT - AT
 
 WT = Waiting Time = TAT - BT
+
+Name - Sushmit Partakke
+PRN - 23070521156

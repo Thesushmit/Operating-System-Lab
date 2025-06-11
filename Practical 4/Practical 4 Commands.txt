@@ -20,3 +20,6 @@ ps – View current processes (optional)
 clear – Clear terminal screen
 
 ls – List files to confirm output exists
+
+Name - Sushmit Partakke
+PRN - 23070521156

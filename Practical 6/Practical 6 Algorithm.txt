@@ -14,3 +14,6 @@ Turnaround Time (TAT = WT + BT)
 Output process-wise WT and TAT
 
 Calculate average WT and TAT
+
+Name - Sushmit Partakke
+PRN - 23070521156

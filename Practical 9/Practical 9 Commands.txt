@@ -17,3 +17,6 @@ chmod +x script.sh – Make script executable
 ls – Verify if file exists
 
 clear – Clear the terminal (optional)
+
+Name - Sushmit Partakke
+PRN - 23070521156

@@ -20,3 +20,5 @@ Display WT and TAT for each process
 
 Calculate average WT and TAT
 
+Name - Sushmit Partakke
+PRN - 23070521156
